@@ -5,4 +5,7 @@ class Doctor(object):
 
     def take_animal(self, animal):
         self.animal = animal
+
+    def test_test(self):
+        print("test")
 #poli
